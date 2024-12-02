@@ -1,0 +1,17 @@
+body {
+	font-family: "Arial";
+	background-color: #FFFFF0;
+}
+input {
+	font-size: 1.5em;
+	height: auto;
+	width: 100%;
+}
+table, th, td {
+	border:1px solid black;
+}
+
+tr {
+    border-top: 12px solid transparent;
+    border-bottom: 12px solid transparent;
+}
